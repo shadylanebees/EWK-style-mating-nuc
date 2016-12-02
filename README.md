@@ -12,3 +12,5 @@ them in any hive) - or you can shorten the length down to more like the European
 
 I'm also trying to make this modular - so that new ideas can be easily incorporated - or you can just print the parts you 
 need or desire.
+
+OpenSCAD files coming soon.
