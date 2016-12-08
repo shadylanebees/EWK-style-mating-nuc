@@ -16,4 +16,4 @@ need or desire.
 ![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/EWK%20Langstroth%20Blowout.png?raw=true)
 
 
-OpenSCAD files coming soon.
+Instructions/Descriptions coming soon.
