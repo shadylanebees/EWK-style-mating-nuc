@@ -13,4 +13,7 @@ them in any hive) - or you can shorten the length down to more like the European
 I'm also trying to make this modular - so that new ideas can be easily incorporated - or you can just print the parts you 
 need or desire.
 
+![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/EWK%20Langstroth%20Blowout.png?raw=true)
+
+
 OpenSCAD files coming soon.
