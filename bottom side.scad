@@ -11,7 +11,7 @@ include <dovetail.scad>;
 
 bottom_box_part(155,1,1);
 translate([0,56,0]) bottom_box_part(155,1,1);
-translate([0,112,0]) bottom_box_part(155,1,1);
+translate([0,112,0]) bottom_box_part(157,1,1);
 
 // male = male dovetail
 // female = female dovetail
