@@ -14,8 +14,7 @@ I'm also trying to make this modular - so that new ideas can be easily incorpora
 need or desire.
 
 DO NOTE: Working on this during the 2016/2017 winter - this HAS NOT been tried or tested as of yet.
+THIS IS EXPERIMENTAL
 
 ![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/EWK%20Langstroth%20Blowout.png?raw=true)
 
-
-Instructions/Descriptions coming soon.
