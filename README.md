@@ -13,6 +13,8 @@ them in any hive) - or you can shorten the length down to more like the European
 I'm also trying to make this modular - so that new ideas can be easily incorporated - or you can just print the parts you 
 need or desire.
 
+DO NOTE: Working on this during the 2016/2017 winter - this HAS NOT been tried or tested as of yet.
+
 ![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/EWK%20Langstroth%20Blowout.png?raw=true)
 
 
