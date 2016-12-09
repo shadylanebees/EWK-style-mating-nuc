@@ -18,3 +18,5 @@ THIS IS EXPERIMENTAL
 
 ![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/EWK%20Langstroth%20Blowout.png?raw=true)
 
+First printed prototype shown with plexiglass sides:
+![alt tag](https://github.com/shadylanebees/EWK-style-mating-nuc/blob/master/LangstrothEWKnuc-pt1.jpg?raw=true)
