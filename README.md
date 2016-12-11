@@ -8,6 +8,7 @@ Built with all 3D printed parts except for the plexiglass sides (3/32 (2.4mm) x 
 Tap Plastics (http://www.tapplastics.com/) can custom cut Plexiglas at about $3.50 each with reasonable shipping.
 
 All pieces can be printed on a 3D printer that has an X and/or Y access of at least 220mm. The pieces connect without glue but glue or friction/fusion welding with a Dremmel tool or using an inexpensive 3D pen to weld the parts together helps to stiffen and toughen the whole assembly. Gluing is really only feasible with non PLA filaments (I haven't found PLA to glue well).
+
 The design uses OpenSCAD - with parametric bits, meaning it is not fully parametric at this point but it is customizable.
 For example, my design allows me to use full length Langstroth medium frames (so I can take those frames out of any nuc and simply place them in any hive) - or if you want, you can shorten the length down to any desirable length.
 
