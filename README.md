@@ -18,7 +18,7 @@ The top portion of the mating nuc has a queen excluder, so that bees can gain ac
 
 I'm also trying to make this modular - so that new ideas can be easily incorporated - or you can just print the parts you need or desire.
 
-I print with 20% infill and .8 top/botom/shell.
+ASA filament or a high temp/low warp PLA should work best. I print with 20% infill and .8 top/botom/shell.
 
 DO NOTE: Working on this during the 2016/2017 winter - this HAS NOT been tried or tested as of yet. THIS IS EXPERIMENTAL
 
