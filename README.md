@@ -3,7 +3,7 @@ A 3D printed EWK style mating nuc.
 
 A 3D printable mating nuc, based on the European EWK (Ein Waben Kaestchen) idea.  Essentially this is a one frame nuc that can be placed into a box with 2 or more (depending on the size of the box) of these nucs to share warmth. Mating nucs have a small population of bees, so keeping themselves warm can be challenging. The nucs have sides that are transparent (Plexiglas), so you can view the queen, etc. without opening the nuc up.
 
-Built with all 3D printed parts except for the plexiglass sides (3/32 (2.4mm) x  7 3/16 (182mm) x 19 1/16 (484 mm) and one #4 x 3/8 (3mmx8) self-tapping (sheet metal, wood, cement) pan head screw to attach the entrance disk gate.  
+Built with all 3D printed parts (total of about 507 grams filament) except for the plexiglass sides (3/32 (2.4mm) x  7 3/16 (182mm) x 19 1/16 (484 mm) and one #4 x 3/8 (3mmx8) self-tapping (sheet metal, wood, cement) pan head screw to attach the entrance disk gate.  
 
 Tap Plastics (http://www.tapplastics.com/) can custom cut Plexiglas at about $3.50 each with reasonable shipping.
 
